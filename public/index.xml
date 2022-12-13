@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blowfish</title>
+    <link>https://blog.rotrixx.eu/</link>
+    <description>Recent content on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://blog.rotrixx.eu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://blog.rotrixx.eu/first-post/</link>
+      <pubDate>Thu, 08 Dec 2022 21:26:39 +0100</pubDate>
+      
+      <guid>https://blog.rotrixx.eu/first-post/</guid>
+      <description> #Yo this is the first post Dictionary here you have some code:
+const coolVar = &amp;#34;foobar&amp;#34; console.log(coolVar) First Second Third Some cool quote #Thanks! </description>
+      
+    </item>
+    
+  </channel>
+</rss>
