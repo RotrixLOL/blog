@@ -3,7 +3,7 @@
 # https://nunocoracao.github.io/blowfish/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://rotrixxlol.github.io/blog"
+baseURL = "https://blog.rotrixx.eu/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
