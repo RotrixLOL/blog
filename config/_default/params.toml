@@ -86,13 +86,13 @@ mainSections = ["posts", "projects"]
   showTermCount = true
 
 [firebase]
-  apiKey = ${{ secrets.FIREBASE_API_KEY }}
-  authDomain = ${{ secrets.FIREBASE_AUTH_DOMAIN }}
-  projectId = ${{secrets.FIREBASE_PROJECT_ID}}
-  storageBucket = ${{ secrets.FIREBASE_STORAGE_BUCKET }}
-  messagingSenderId = ${{ secrets.FIREBASE_MESSAGING_SENDER_ID }}
-  appId = ${{ secrets.FIREBASE_APP_ID }}
-  measurementId = ${{ secrets.FIREBASE_MEASUREMENT_ID }}
+  apiKey = "AIzaSyCJAk-XO6vNZAwx6auOZBSqig4YsKZm490"
+  authDomain = "blog-41b80.firebaseapp.com"
+  projectId = "blog-41b80"
+  storageBucket = "blog-41b80.appspot.com"
+  messagingSenderId = "257700630889"
+  appId = "1:257700630889:web:41c8d54ee5c37842672df8"
+  measurementId = "G-EXH963LXFY"
 
 [fathomAnalytics]
   # site = "ABC12345"
