@@ -7,34 +7,34 @@ tags: ["Guide", "theme"]
 
 ## Kinda quotes
 
-{{<lead>}}
+{{< lead >}}
 When life gives you lemons, make lemonade.
-{{</lead>}}
+{{< /lead >}}
 
 ## Alerts
 
-{{<alert>}}
+{{< alert >}}
 **This is important:** Look!
-{{</alert>}}
+{{< /alert >}}
 
 ## Badges
 Take a look at this cool badge:
-{{<badge>}}
+{{< badge >}}
 Test Badge!
-{{</badge>}}
+{{< /badge >}}
 
 ## Buttons
 
 Here you have kinda a button:
 
-{{<button href="#button" target="_self">}}
+{{< button href="#button" target="_self" >}}
 Cool button
-{{</button>}}
+{{< /button >}}
 
 ## Charts
 
 The charts are difficult!
-{{<chart>}}
+{{< chart >}}
 type: 'bar',
 data: {
   labels: ['RotrixX', 'Tesla', 'Twitter', 'Elon Musk'],
@@ -43,17 +43,17 @@ data: {
     data: [89129804, 6023813, 3012946, 9832718]
   }]
 }
-{{</chart>}}
+{{< /chart>}}
 Just look at that!
 
 ## Icons
 
 Here you have some cool icons:
 
-{{<icon "facebook">}}
-{{<icon "github">}}
-{{<icon "twitter">}}
-[{{<icon "dev">}}](https://dev.to/rotrixx)
+{{< icon "facebook" >}}
+{{< icon "github" >}}
+{{< icon "twitter" >}}
+[{{< icon "dev" >}}](https://dev.to/rotrixx)
 
 ## Lists
 
@@ -72,14 +72,14 @@ Showcase of colors:
 
 ### Not very basic diagram:
 
-{{<mermaid>}}
+{{< mermaid >}}
 graph LR;
 A[Learn]-->B[Code];
 B-->C[Profit]
-{{</mermaid>}}
+{{< /mermaid >}}
 
 ### Other one:
-{{<mermaid>}}
+{{< mermaid >}}
 gantt
 dateFormat DD-MM-YYYY
 title GANTT diagram
@@ -89,10 +89,10 @@ Completed task :done des1, 01-01-2022, 18-04-2022
 Active task :active des2, 18-04-2022, 30-08-2022
 Future task : des3, 30-08-2022, 09-04-2023
 
-{{</mermaid>}}
+{{</ mermaid >}}
 
 ### Some git graph:
-{{<mermaid>}}
+{{< mermaid >}}
 gitGraph
   commit tag: "v1.0.0"
   commit
@@ -106,6 +106,6 @@ gitGraph
   merge nightly
   commit tag: "v1.2.0"
   commit
-{{</mermaid>}}
+{{< /mermaid >}}
 
 ## Thanks for reading :)
