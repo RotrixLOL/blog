@@ -30,7 +30,7 @@ mainSections = ["posts", "projects"]
   homepageImage = "img/home_img.png" # used in: hero, and card
   showRecent = true
   showRecentItems = 100
-  showMoreLink = false
+  showMoreLink = true
   showMoreLinkDest = "/posts"
   cardView = false
   cardViewScreenWidth = false
@@ -99,11 +99,11 @@ mainSections = ["posts", "projects"]
   # domain = "llama.yoursite.com"
 
 [buymeacoffee]
-  # identifier = ""
-  # globalWidget = true
-  # globalWidgetMessage = "Hello"
-  # globalWidgetColor = "#FFDD00"
-  # globalWidgetPosition = "Right"
+  identifier = "rotrix"
+  globalWidget = true
+  globalWidgetMessage = "Hello"
+  globalWidgetColor = "#FFDD00"
+  globalWidgetPosition = "Right"
 
 [verification]
   # google = ""
