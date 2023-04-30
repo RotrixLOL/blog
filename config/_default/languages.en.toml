@@ -5,9 +5,9 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "RotrixX"
+title = "RotrixX's Blog"
 # logo = "img/logo.png"
-description = "My awesome website"
+description = "Hacking writeups and software development posts. Learn cibersecurity and web development today!"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
@@ -16,9 +16,9 @@ dateFormat = "2 January 2006"
   name = "RotrixX"
   image = "img/profile.png"
   headline = "I'm only human"
-  bio = "I'm a full-stack web developer."
+  bio = "I'm a Full Stack Web Developer & Open Source, GNU/Linux enthusiast."
   links = [
-    { email = "mailto:rotrixxlol+blog@gmail.com" },
+    { email = "mailto:admin@rotrixx.eu" },
     { link = "https://rotrixx.eu/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
