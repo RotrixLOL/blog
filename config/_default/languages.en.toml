@@ -6,7 +6,7 @@ weight = 1
 rtl = false
 
 title = "RotrixX's Blog"
-# logo = "img/logo.png"
+logo = "img/profile.png"
 description = "Hacking writeups and software development posts. Learn cibersecurity and web development today!"
 # copyright = "Copy, _right?_ :thinking_face:"
 
