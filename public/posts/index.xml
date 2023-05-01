@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>RotrixX&#39;s Blog</title>
-    <link>https://blog.rotrixx.eu/</link>
-    <description>Recent content on RotrixX&#39;s Blog</description>
+    <title>Posts on RotrixX&#39;s Blog</title>
+    <link>https://blog.rotrixx.eu/posts/</link>
+    <description>Recent content in Posts on RotrixX&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Dec 2022 15:49:55 +0100</lastBuildDate><atom:link href="https://blog.rotrixx.eu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Dec 2022 15:49:55 +0100</lastBuildDate><atom:link href="https://blog.rotrixx.eu/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Theme guide for myself</title>
       <link>https://blog.rotrixx.eu/posts/theme-autoguide-for-myself/</link>
@@ -14,7 +14,6 @@
       
       <guid>https://blog.rotrixx.eu/posts/theme-autoguide-for-myself/</guid>
       <description>Kinda quotes # When life gives you lemons, make lemonade. Alerts # This is important: Look! Badges # Take a look at this cool badge: Test Badge! Buttons # Here you have kinda a button:</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.rotrixx.eu/posts/theme-autoguide-for-myself/featured.png" />
     </item>
     
     <item>
@@ -26,7 +25,6 @@
       <description> Yo # this is the first post
 here you have some code:
 const coolVar = &amp;#34;foobar&amp;#34; console.log(coolVar) First Second Third Some cool quote #Thanks! </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.rotrixx.eu/posts/first-post/featured.png" />
     </item>
     
   </channel>

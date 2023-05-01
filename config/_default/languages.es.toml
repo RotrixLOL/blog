@@ -1,13 +1,13 @@
-languageCode = "en"
-languageName = "English"
-displayName = "EN"
-isoCode = "en"
-weight = 1
+languageCode = "es"
+languageName = "Español"
+displayName = "ES"
+isoCode = "es"
+weight = 2
 rtl = false
 
-title = "RotrixX's Blog"
+title = "El blog de RotrixX"
 # logo = "img/logo.png"
-description = "Hacking writeups and software development posts. Learn cibersecurity and web development today!"
+description = "Writeups de hacking y publicaciones de desarrollo de software. Aprende ciberseguridad y desarrollo web hoy!"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
@@ -15,8 +15,8 @@ dateFormat = "2 January 2006"
 [author]
   name = "RotrixX"
   image = "img/profile.png"
-  headline = "I'm only human"
-  bio = "I'm a Full Stack Web Developer & Open Source, GNU/Linux enthusiast."
+  headline = "Solo soy humano"
+  bio = "Soy un desarrollador web full stack & Entusiasta Open Source, GNU/Linux."
   links = [
     { email = "mailto:admin@rotrixx.eu" },
     { link = "https://rotrixx.eu/" },
