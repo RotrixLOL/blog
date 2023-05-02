@@ -2,6 +2,8 @@
 title: "Subdomain Takeover: how an atacker can take control of your website"
 date: 2023-05-01T13:46:15Z
 description: "Take preventive measures to protect your website from subdomain takeover. Learn how to monitor your subdomains, properly configure DNS records, and use detection tools to prevent malicious attacks. Find out how to protect your website against subdomain takeover in this article."
+categories: ["Hacking"]
+tags: ["Vuln"]
 ---
 
 Computer attacks are increasingly sophisticated and, in many cases, they can go unnoticed for a long time. One of these types of attacks is subdomain takeover, in which an attacker can take control of a subdomain of a website and use it for its own malicious purposes. In this article, we will explore what the subdomain takeover is, how you work and how you can protect your website against it.

@@ -2,6 +2,8 @@
 title: "Subdomain Takeover: como un atacante puede tomar el control de tu sitio web"
 date: 2023-05-01T13:46:15Z
 description: "Toma medidas preventivas para proteger tu sitio web del subdomain takeover. Aprende cómo monitorear tus subdominios, configurar correctamente los registros DNS y utilizar herramientas de detección para evitar ataques malintencionados. Descubre cómo proteger tu sitio web contra el subdomain takeover en este artículo."
+categories: ["Hacking"]
+tags: ["Vuln"]
 ---
 
 
