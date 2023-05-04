@@ -18,7 +18,7 @@ This means that if you have a web application housed on your own server, an atta
 
 Imagine that you are hosting a PHP online store on your server and you have a parameter for the functionality of the pagination. Well, an attacker could try a variety of combinations to inject commands.
 
-This type of vulnerability is present in many [HTB](https: //hackthebox. com) machines so you should master it. The best way? Practice, the more you explode this vulnerability, the easier it will be.
+This type of vulnerability is present in many [HTB](https://hackthebox.com) machines so you should master it. The best way? Practice, the more you explode this vulnerability, the easier it will be.
 
 `http://www.example.com/index.php?page=;whoami`
 
