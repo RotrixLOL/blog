@@ -15,7 +15,7 @@ dateFormat = "2 January 2006"
 [author]
   name = "RotrixX"
   image = "img/profile.png"
-  headline = "I'm only human"
+  headline = "Full Stack rust and JS Developer & Open Source"
   bio = "I'm a Full Stack Web Developer & Open Source, GNU/Linux enthusiast."
   links = [
     { email = "mailto:admin@rotrixx.eu" },
