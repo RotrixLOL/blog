@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RCE on RotrixX&#39;s Blog</title>
+    <link>https://blog.rotrixx.eu/tags/rce/</link>
+    <description>Recent content in RCE on RotrixX&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 02 May 2023 21:28:09 +0000</lastBuildDate><atom:link href="https://blog.rotrixx.eu/tags/rce/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intro to RCEs: What they are and how to prevent them</title>
+      <link>https://blog.rotrixx.eu/posts/rce-intro/</link>
+      <pubDate>Tue, 02 May 2023 21:28:09 +0000</pubDate>
+      
+      <guid>https://blog.rotrixx.eu/posts/rce-intro/</guid>
+      <description>An RCE (Remote Code Execution) allows the attacker to execute malicious code on a remote server if, for example, you have a website with a vulnerable parameter in the url. Discover more about RCEs and how to prevent them in this article!</description>
+    </item>
+    
+  </channel>
+</rss>

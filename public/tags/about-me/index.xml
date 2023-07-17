@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Me on RotrixX&#39;s Blog</title>
+    <link>https://blog.rotrixx.eu/tags/about-me/</link>
+    <description>Recent content in About Me on RotrixX&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 17 Jul 2023 11:52:55 +0200</lastBuildDate><atom:link href="https://blog.rotrixx.eu/tags/about-me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://blog.rotrixx.eu/about/</link>
+      <pubDate>Mon, 17 Jul 2023 11:52:55 +0200</pubDate>
+      
+      <guid>https://blog.rotrixx.eu/about/</guid>
+      <description>Hello! I&amp;rsquo;m known as RotrixX, and I&amp;rsquo;m a passionate full-stack web developer with experience in React. I also have strong skills in the programming languages Rust and JavaScript. My main focus is on web development, but I&amp;rsquo;m also drawn to the exciting world of game development.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,7 +6,37 @@
     <description>Recent content on RotrixX&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Dec 2022 15:49:55 +0100</lastBuildDate><atom:link href="https://blog.rotrixx.eu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Jul 2023 11:52:55 +0200</lastBuildDate><atom:link href="https://blog.rotrixx.eu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://blog.rotrixx.eu/about/</link>
+      <pubDate>Mon, 17 Jul 2023 11:52:55 +0200</pubDate>
+      
+      <guid>https://blog.rotrixx.eu/about/</guid>
+      <description>Hello! I&amp;rsquo;m known as RotrixX, and I&amp;rsquo;m a passionate full-stack web developer with experience in React. I also have strong skills in the programming languages Rust and JavaScript. My main focus is on web development, but I&amp;rsquo;m also drawn to the exciting world of game development.</description>
+      
+    </item>
+    
+    <item>
+      <title>Intro to RCEs: What they are and how to prevent them</title>
+      <link>https://blog.rotrixx.eu/posts/rce-intro/</link>
+      <pubDate>Tue, 02 May 2023 21:28:09 +0000</pubDate>
+      
+      <guid>https://blog.rotrixx.eu/posts/rce-intro/</guid>
+      <description>An RCE (Remote Code Execution) allows the attacker to execute malicious code on a remote server if, for example, you have a website with a vulnerable parameter in the url. Discover more about RCEs and how to prevent them in this article!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.rotrixx.eu/posts/rce-intro/featured.png" />
+    </item>
+    
+    <item>
+      <title>Subdomain Takeover: how an atacker can take control of your website</title>
+      <link>https://blog.rotrixx.eu/posts/subdomain-takeover/</link>
+      <pubDate>Mon, 01 May 2023 13:46:15 +0000</pubDate>
+      
+      <guid>https://blog.rotrixx.eu/posts/subdomain-takeover/</guid>
+      <description>Computer attacks are increasingly sophisticated and, in many cases, they can go unnoticed for a long time. One of these types of attacks is subdomain takeover, in which an attacker can take control of a subdomain of a website and use it for its own malicious purposes.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.rotrixx.eu/posts/subdomain-takeover/featured.png" />
+    </item>
+    
     <item>
       <title>Theme guide for myself</title>
       <link>https://blog.rotrixx.eu/posts/theme-autoguide-for-myself/</link>
@@ -15,18 +45,6 @@
       <guid>https://blog.rotrixx.eu/posts/theme-autoguide-for-myself/</guid>
       <description>Kinda quotes # When life gives you lemons, make lemonade. Alerts # This is important: Look! Badges # Take a look at this cool badge: Test Badge! Buttons # Here you have kinda a button:</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.rotrixx.eu/posts/theme-autoguide-for-myself/featured.png" />
-    </item>
-    
-    <item>
-      <title>First Post</title>
-      <link>https://blog.rotrixx.eu/posts/first-post/</link>
-      <pubDate>Thu, 08 Dec 2022 21:26:39 +0100</pubDate>
-      
-      <guid>https://blog.rotrixx.eu/posts/first-post/</guid>
-      <description> Yo # this is the first post
-here you have some code:
-const coolVar = &amp;#34;foobar&amp;#34; console.log(coolVar) First Second Third Some cool quote #Thanks! </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://blog.rotrixx.eu/posts/first-post/featured.png" />
     </item>
     
   </channel>
