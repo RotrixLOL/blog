@@ -11,19 +11,24 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
- name = "Blog"
- pageRef = "posts"
- weight = 10
+name = "Blog"
+pageRef = "posts"
+weight = 10
 
 [[main]]
- name = "Categories"
- pageRef = "categories"
- weight = 20
+name = "Categories"
+pageRef = "categories"
+weight = 20
 
 [[main]]
- name = "Tags"
- pageRef = "tags"
- weight = 30
+name = "Tags"
+pageRef = "tags"
+weight = 30
+
+[[main]]
+name = "About Me"
+pageRef = "about"
+weight = 40
 
 
 # -- Footer Menu --
@@ -32,6 +37,6 @@
 
 
 [[footer]]
-  name = "🌀 Github Repo"
-  url = "https://github.com/RotrixLOL/blog"
-  weight = 10
+name = "🌀 Github Repo"
+url = "https://github.com/RotrixLOL/blog"
+weight = 10
