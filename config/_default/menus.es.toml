@@ -39,3 +39,9 @@ weight = 40
 name = "🌀 Repo de Github"
 url = "https://github.com/RotrixLOL/blog"
 weight = 10
+
+
+[[footer]]
+name = "RSS"
+url = "/index.xml"
+weight = 20
