@@ -4,6 +4,63 @@
   
     
       <url>
+            <loc>https://blog.rotrixx.eu/posts/gdpr-compliant-alternative-to-google-fonts/</loc>
+            <lastmod>2023-07-22T11:08:23+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://blog.rotrixx.eu/es/posts/gdpr-compliant-alternative-to-google-fonts/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://blog.rotrixx.eu/posts/gdpr-compliant-alternative-to-google-fonts/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://blog.rotrixx.eu/posts/</loc>
+            <lastmod>2023-07-22T11:08:23+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://blog.rotrixx.eu/es/posts/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://blog.rotrixx.eu/posts/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://blog.rotrixx.eu/</loc>
+            <lastmod>2023-07-22T11:08:23+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://blog.rotrixx.eu/es/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://blog.rotrixx.eu/"
+              />
+          </url>
+    
+  
+    
+      <url>
             <loc>https://blog.rotrixx.eu/tags/about-me/</loc>
             <lastmod>2023-07-17T11:52:55+02:00</lastmod>
             <changefreq>daily</changefreq>
@@ -36,25 +93,6 @@
               rel="alternate"
               hreflang="en"
               href="https://blog.rotrixx.eu/about/"
-              />
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://blog.rotrixx.eu/</loc>
-            <lastmod>2023-07-17T11:52:55+02:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-            <xhtml:link
-              rel="alternate"
-              hreflang="es"
-              href="https://blog.rotrixx.eu/es/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="https://blog.rotrixx.eu/"
               />
           </url>
     
@@ -131,25 +169,6 @@
               rel="alternate"
               hreflang="en"
               href="https://blog.rotrixx.eu/posts/rce-intro/"
-              />
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://blog.rotrixx.eu/posts/</loc>
-            <lastmod>2023-05-02T21:28:09+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-            <xhtml:link
-              rel="alternate"
-              hreflang="es"
-              href="https://blog.rotrixx.eu/es/posts/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="https://blog.rotrixx.eu/posts/"
               />
           </url>
     
