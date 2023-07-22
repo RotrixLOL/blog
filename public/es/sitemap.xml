@@ -23,6 +23,44 @@
   
     
       <url>
+            <loc>https://blog.rotrixx.eu/es/tags/alternative/</loc>
+            <lastmod>2023-07-22T11:08:23+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://blog.rotrixx.eu/tags/alternative/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://blog.rotrixx.eu/es/tags/alternative/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://blog.rotrixx.eu/es/categories/</loc>
+            <lastmod>2023-07-22T11:08:23+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://blog.rotrixx.eu/categories/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://blog.rotrixx.eu/es/categories/"
+              />
+          </url>
+    
+  
+    
+      <url>
             <loc>https://blog.rotrixx.eu/es/</loc>
             <lastmod>2023-07-22T11:08:23+02:00</lastmod>
             <changefreq>daily</changefreq>
@@ -42,6 +80,25 @@
   
     
       <url>
+            <loc>https://blog.rotrixx.eu/es/categories/frontend/</loc>
+            <lastmod>2023-07-22T11:08:23+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://blog.rotrixx.eu/categories/frontend/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://blog.rotrixx.eu/es/categories/frontend/"
+              />
+          </url>
+    
+  
+    
+      <url>
             <loc>https://blog.rotrixx.eu/es/posts/</loc>
             <lastmod>2023-07-22T11:08:23+02:00</lastmod>
             <changefreq>daily</changefreq>
@@ -55,6 +112,63 @@
               rel="alternate"
               hreflang="es"
               href="https://blog.rotrixx.eu/es/posts/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://blog.rotrixx.eu/es/categories/services/</loc>
+            <lastmod>2023-07-22T11:08:23+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://blog.rotrixx.eu/categories/services/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://blog.rotrixx.eu/es/categories/services/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://blog.rotrixx.eu/es/tags/</loc>
+            <lastmod>2023-07-22T11:08:23+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://blog.rotrixx.eu/tags/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://blog.rotrixx.eu/es/tags/"
+              />
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://blog.rotrixx.eu/es/categories/web/</loc>
+            <lastmod>2023-07-22T11:08:23+02:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://blog.rotrixx.eu/categories/web/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="es"
+              href="https://blog.rotrixx.eu/es/categories/web/"
               />
           </url>
     
@@ -93,44 +207,6 @@
               rel="alternate"
               hreflang="es"
               href="https://blog.rotrixx.eu/es/about/"
-              />
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://blog.rotrixx.eu/es/tags/</loc>
-            <lastmod>2023-07-17T11:52:50+02:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="https://blog.rotrixx.eu/tags/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="es"
-              href="https://blog.rotrixx.eu/es/tags/"
-              />
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://blog.rotrixx.eu/es/categories/</loc>
-            <lastmod>2023-05-02T21:28:09+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-            <xhtml:link
-              rel="alternate"
-              hreflang="en"
-              href="https://blog.rotrixx.eu/categories/"
-              />
-            <xhtml:link
-              rel="alternate"
-              hreflang="es"
-              href="https://blog.rotrixx.eu/es/categories/"
               />
           </url>
     

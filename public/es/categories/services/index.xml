@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>services on El blog de RotrixX</title>
+    <link>https://blog.rotrixx.eu/es/categories/services/</link>
+    <description>Recent content in services on El blog de RotrixX</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 22 Jul 2023 11:08:23 +0200</lastBuildDate><atom:link href="https://blog.rotrixx.eu/es/categories/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alternativa a Google Fonts que cumple la GDPR</title>
+      <link>https://blog.rotrixx.eu/es/posts/gdpr-compliant-alternative-to-google-fonts/</link>
+      <pubDate>Sat, 22 Jul 2023 11:08:23 +0200</pubDate>
+      
+      <guid>https://blog.rotrixx.eu/es/posts/gdpr-compliant-alternative-to-google-fonts/</guid>
+      <description>Como seguramente ya sabras o por si no lo sabes, google fonts ha dejado de ser legal en europa. Esto es debido a la GDPR, que es una regulacion para las aplicaciones que dan servicio a europa, para que las plataformas no recolecten informacion del usuario sin dejarlo claro.</description>
+    </item>
+    
+  </channel>
+</rss>
